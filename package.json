@@ -1,12 +1,19 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "yndmitry-barba",
   "version": "0.0.0",
   "description": "Developer starter template for Finsweet projects.",
   "license": "ISC",
-  "keywords": [],
   "type": "module",
   "main": "src/index.ts",
   "module": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YNDmitry/barba-test"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
   "files": [
     "dist"
   ],
